@@ -5,8 +5,8 @@
   *@counter: line_number
   *Return: no return
  */
-void f_nop(stack_t **head, unsigned int conter)
+void f_nop(stack_t **head, unsigned int counter)
 {
-	(void) conter;
+	(void) counter;
 	(void) head;
 }
